@@ -1,0 +1,101 @@
+
+#wrapper{
+	margin: auto;
+	width: 900px;
+	padding-bottom: 50px;
+}
+
+#header{
+	display: inline-block;
+	width: 100%;
+	line-height: 50px;
+}
+
+#logo {
+	width: 225px;
+	float: left;
+	line-height: 50px;
+}
+#logo img{
+	width: 150px;
+}
+
+#search {
+	padding-top: 25px;
+	width: ;
+	float: left;
+	line-height: 50px;
+}
+
+#search ul li{
+	float: left;
+	border-right: 2px solid black;
+	padding: 10px;
+	line-height: 10px;
+}
+
+#header-links {
+	width: ;
+	float: right;
+	line-height: 50px;
+}
+
+#header-links ul li {
+	float: left;
+	padding: 10px;
+}
+#views{
+	float: right;
+}
+#share-bar{
+	float: left;
+	width: 500px;
+}
+#share-bar ul li{
+	float:left;
+}
+
+#comments{
+	clear: left;
+	width: 500px;
+}
+#video-title{
+	padding-bottom: 10px;
+	font-size: 28px;
+}
+#left{
+	display: inline-block;
+	width: 500px;
+}
+#right{
+	display: inline-block;
+	width: 350px;
+	float: right;
+}
+p{
+	padding-bottom: 20px;
+}
+h3{
+	font-size: 18px;
+	padding-bottom: 10px;
+}
+h4{
+	font-size: 16px;
+	padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
