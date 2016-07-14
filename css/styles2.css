@@ -1,0 +1,108 @@
+img{
+	max-width: 100%;
+}
+
+#youtube-wrapper{
+	/* set a gutter on both sides of the wrapper */
+	margin-left: 40px;
+	margin-right: 40px;
+}
+#nav{
+	border-bottom: 1px solid black;
+	padding: 20px 0px;
+}
+#header{
+	height: 50px;
+	line-height: 50px;
+	border-bottom: 1px solid black;
+}
+
+#header h1{
+	font-size: 20px;
+}
+#logo, #search-nav, #account-container{
+	display: inline-block;
+}
+#logo{
+	width: 20%;
+	margin-top: 20px;
+}
+#logo img{
+	max-width: 150px;
+}
+#search-nav{
+	width: 50%;
+}
+#search-containter{
+	margin-bottom: 15px;
+}
+#search-nav .search-text{
+	width: 200px;
+}
+#search-nav .button-text{
+	width: 18%;
+}
+#nav-bar ul li{
+	/* put all li on same line */
+	display: inline-block;
+	border-right: 1px solid black;
+	padding-right: 20px;
+	padding-left: 10px;
+	text-decoration: underline;
+}
+#nav-bar ul li:last-child{
+	border: none;
+}
+#account-container{
+	width: 18%;
+	text-align: right;
+}
+#account-text{
+	margin-bottom: 20px;
+}
+
+#account-links ul li{
+	display: inline-block;
+	padding-right: 10px;
+}
+
+#account-links ul li:last-child{
+	display: inline-block;
+	padding-right: 0px;
+}
+#featured-wrapper, #featured, #secondary-videos{
+	display: inline-block;
+}
+#content{
+	margin-top: 20px;
+}
+#featured-wrapper{
+	background-color: #cacaca;
+	padding: 0 15px;
+	width: 70%;
+}
+#featured-wrapper h2{
+	font-size: 18px;
+	margin: 10px auto;
+}
+.small-video{
+	border: 1px solid black;
+}
+.small-video, .small-video-text{
+	display: inline-block;
+}
+#right-rail-ad{
+	display: inline-block;
+	width: 25%;
+	vertical-align: top;
+}
+#more-videos{
+	background-color: #cacaca;
+	padding: 10px;
+	margin-top: 20px;
+}
+.more-video-item{
+	display: inline-block;
+	width: 24%;
+}
+
